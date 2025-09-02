@@ -4,6 +4,7 @@ Este projeto consiste em um cartão de banco animado, onde ao passar o mouse por
 🚀  Sobre o Projeto:
 
 Este projeto consiste em uma landing page com um cartão de banco. A página possui uma decoração de círculos com degradê e uma animação ativada ao passar o mouse sobre o cartão. Isso resultou em um aumento significativo no meu conhecimento em CSS, me permitindo ultrapassar os limites das possibilidades que esta ferramenta oferece.
+
 🛠️ Tecnologias e Conceitos Abordados
 
 HTML5:
