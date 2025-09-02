@@ -16,6 +16,4 @@ Com este novo projeto, aprimorei minha habilidade em CSS. Agora consigo criar an
 
 💻 Como Executar:
 
-Esta pasta contém três imagens para download: uma que serve como o ícone da landing page na aba de navegação e as outras duas que são usadas para a decoração do cartão.
-
-Link: https://drive.google.com/drive/folders/1TTL4dvva_iDQW34N0xe5epT2npZkrdZ2?usp=sharing
+Instale o arquivo no seu computador, e abra no seu navegador de preferencia.
