@@ -1,5 +1,4 @@
 Projeto 04 - cartão Animado
-Este projeto consiste em um cartão de banco animado, onde ao passar o mouse por cima.
 
 🚀  Sobre o Projeto:
 
